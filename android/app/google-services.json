@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046103251656",
+    "project_id": "chat-app-7464c",
+    "storage_bucket": "chat-app-7464c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046103251656:android:8ffd6d006bcf140e46e3fd",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_tharwat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046103251656-am8v34gt8njb0gj8io94692us8hhtm1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCem0Xx3Zu_9XdZywZADPB_Gyo57sPuoXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046103251656-am8v34gt8njb0gj8io94692us8hhtm1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
